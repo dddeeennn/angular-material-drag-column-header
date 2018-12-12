@@ -1,4 +1,6 @@
-# angular-material-drag-column-header
+# Angular Material design draggable column header
+
 Example of Angular material design draggable header column.
+
 [Demo](https://stackblitz.com/github/dddeeennn/angular-material-drag-column-header)
- 
+
